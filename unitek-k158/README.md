@@ -77,6 +77,6 @@ All documentation and layout files are under the [MIT License](../LICENSE).
 
 ## External References
 
-- [The Mechanical Keyboard Wiki — Cherry MX Pale Blue](https://wiki.themk.org/index.php/Cherry_MX_Pale_Blue) 
+- [The Mechanical Keyboard Wiki - Cherry MX Pale Blue](https://wiki.themk.org/index.php/Cherry_MX_Pale_Blue) 
+- [The Mechanical Keyboard Wiki - Unitek](https://wiki.themk.org/index.php/Unitek)
 - [FCC ID Database](https://fccid.io/DKW67MK-158)
-- [Unitek](https://wiki.themk.org/index.php/Unitek)
